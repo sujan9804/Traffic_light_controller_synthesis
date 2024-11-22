@@ -1,4 +1,4 @@
-# Traffic_light_controller_Synthesis
+# Exp-6: Traffic_light_controller_Synthesis
 
 ## Aim:
 
@@ -40,9 +40,23 @@ The Liberty files are present in the library path,
 
 Synthesis RTL Schematic :
 
+
+![WhatsApp Image 2024-11-22 at 21 52 32_f986f47e](https://github.com/user-attachments/assets/bd9ffcf9-2287-4b0a-a94e-280ae57f7553)
+
+
+
 Area report:
 
+![WhatsApp Image 2024-11-22 at 21 52 31_118fca2e](https://github.com/user-attachments/assets/117f6980-5dd8-4be1-90c9-f56c35e75e95)
+
+
+
 Power Report:
+
+![WhatsApp Image 2024-11-22 at 21 52 31_749211a9](https://github.com/user-attachments/assets/32e3f0d2-e433-40a4-9afd-d69a3f0e838c)
+
+
+
 
 Result:
 
